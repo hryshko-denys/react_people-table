@@ -1,1 +1,0 @@
-{"version":3,"sources":["PersonRow.css","PeopleTable.css"],"names":[],"mappings":"AAAA,MACE,UACF,CAEA,KACE,SACF,CAEA,UACE,qBACF,CCVA,aACE,wBACF","file":"main.786cf512.chunk.css","sourcesContent":[".blue {\n  color: blue;\n}\n\n.red {\n  color: red;\n}\n\n.selected {\n  background-color: grey;\n}\n",".PeopleTable {\n  border-collapse: collapse;\n}\n"]}
